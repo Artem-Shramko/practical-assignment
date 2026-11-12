@@ -26,3 +26,17 @@ Technologies
 Purpose
 
 The purpose of this repository is to practice programming, improve problem-solving skills, and track my progress in Software Engineering.
+
+
+Repository Structure
+
+The repository is organized into separate directories for each practical assignment:
+
+practical-assignment №4
+practical-assignment №5
+practical-assignment №6
+practical-assignment №7
+practical-assignment №8
+practical-assignment №9
+
+Each directory contains the corresponding practical work.
